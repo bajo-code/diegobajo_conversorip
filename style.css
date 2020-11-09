@@ -1,0 +1,36 @@
+body{
+    background-color: #fff;
+}
+form{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+h2{
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 18PX;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+button{
+    margin-top: 10px;
+}
+
+div{
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    background-color: #2e2e2e;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+ul{
+    font-family: 'Roboto';
+    position: relative;
+    top: 24%;
+    left: 36%;
+}

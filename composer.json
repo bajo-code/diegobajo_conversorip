@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ipinfo/ipinfo": "^1.1",
+        "geoip2/geoip2": "^2.11",
+        "foolz/inet": "^0.6.0"
+    }
+}
